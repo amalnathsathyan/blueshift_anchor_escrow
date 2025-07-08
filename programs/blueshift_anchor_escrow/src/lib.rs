@@ -5,7 +5,7 @@ pub mod error;
 pub mod instructions;
 use instructions::*;
 
-declare_id!("22222222222222222222222222222222222222222222");
+declare_id!("37hREAxtmQVqpQ85kwSkB7UiMpUeP2rHrW5Y5ZxYSxLh");
  
 #[program]
 pub mod blueshift_anchor_escrow {
